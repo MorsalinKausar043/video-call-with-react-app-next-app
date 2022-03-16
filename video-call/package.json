@@ -13,7 +13,9 @@
     "next": "12.1.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "react-jitsi": "^1.0.4"
+    "react-jitsi": "^1.0.4",
+    "react-jutsu": "^3.0.3",
+    "react-jutsu-zyre": "^3.0.3"
   },
   "devDependencies": {
     "eslint": "8.11.0",
